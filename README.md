@@ -2,3 +2,4 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Computer Science Engeneering at Polytechnic School of Sousse
 - 📫 How to reach me: +216 94055007 / mohamedyessine.baananou@polytechnicien.tn
+- 📫 linkedin.com/in/mohamed-yessine-baananou/
