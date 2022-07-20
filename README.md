@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Mohamed Yessine Baananou
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Computer Science Engeneering at Polytechnic School of Sousse
-- 📫 How to reach me: +216 94055007 / mohamedyessine.baananou@polytechnicien.tn
-- 📫 linkedin.com/in/mohamed-yessine-baananou/
+<a href="https://app.daily.dev/Baananou"><img src="https://api.daily.dev/devcards/56b7b8f4b277492d9a9068788d9386e1.png?r=n9l" width="400" alt="Mohamed Yessine Baananou's Dev Card"/></a>
