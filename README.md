@@ -61,17 +61,17 @@
 - **Frameworks:** ReactJS • Next.JS • Angular • TailwindCSS • BootStrap • Flask • .NET 6 • Flutter.
 - **API Testing:** Postman • TalendAPI
 - **Languages:** 
-  - Python ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-  - SQL ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
-  - Java ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
-  - JavaScript ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-  - TypeScript ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
-  - PHP ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)
-  - C ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
-  - C# ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
-  - Dart ![Dart](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg)
-  - GO ![GO](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg)
-  - GraphQL ![GraphQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg)
+  - Python ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg){:height="24px"}
+  - SQL ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg){:height="24px"}
+  - Java ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg){:height="24px"}
+  - JavaScript ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg){:height="24px"}
+  - TypeScript ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg){:height="24px"}
+  - PHP ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg){:height="24px"}
+  - C ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg){:height="24px"}
+  - C# ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg){:height="24px"}
+  - Dart ![Dart](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg){:height="24px"}
+  - GO ![GO](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg){:height="24px"}
+  - GraphQL ![GraphQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg){:height="24px"}
 
 ### General Skills:
 
