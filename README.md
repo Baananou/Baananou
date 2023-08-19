@@ -52,7 +52,7 @@ First Aid Training, Croissant-Rouge Hammem Sousse | 2022
 
 ## Languages
 
-🇫🇷 French (DELF B2) • 🇬🇧 English (TOEIC 815) • 🇩🇪 German (Beginner) • 🇦🇪 Arabic (Native)
+🇫🇷 French (DELF B2) • 🇬🇧 English (TOEIC 815) • 🇩🇪 German (Beginner) • 🇹🇳 Arabic (Native)
 
 ## Interests
 
