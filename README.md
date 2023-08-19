@@ -3,7 +3,7 @@
 - **Age:** 22
 - **Address:** Sousse, Tunisia
 - **Phone:** +216 94 055 007
-- **Email:** bananoumohamed30@gmail.com
+- **Email:** <bananoumohamed30@gmail.com>
 - **LinkedIn:** [/in/mohamed-yessine-baananou](https://www.linkedin.com/in/mohamed-yessine-baananou)
 - **GitHub:** [/baananou](https://github.com/baananou)
 - **GitLab:** [/baananou](https://gitlab.com/baananou)
@@ -13,19 +13,23 @@
 ## Academic Background
 
 **École Polytechnique De Sousse** | 2019 – Present
+
 - Engineering in Computer Science (EUR-ACE European accreditation)
 
 **Lycée Hammam Sousse 2** | 2018 – 2019
+
 - Baccalaureate in Technical Sciences (Electrical, Mechanical, Physics)
 
 ## Professional Experience
 
 **Web Developer, VAERDIA, Sousse, Tunisia** | 2023 – Present
+
 - Collaborated on-site in designing custom CRMs using MUI, React.js, Next.js.
 - Integrated provided APIs using React Query.
 - Created a performant Flask/MySQL backend for file management (creation, search, export).
 
 **Web Developer, JOODLAB, Sousse, Tunisia** | 2022 – 2023
+
 - Collaborated remotely on various projects: Angular, Next.js, Tailwind CSS, GitLab.
 - Implemented multilingualism through I18n Framework.
 - Implemented SEO strategies to optimize content, enhancing online visibility and traffic.
@@ -41,39 +45,32 @@
 ## Academic Projects
 
 🌦️ **Weather App (Flutter Dart)** | 2023
+
 - Developed a mobile app to check the weather using Open Weather API.
 
 ✅ **TODO App (React Native Expo Firebase)** | 2023
+
 - Designed and developed a mobile app for task management.
 
 🌐 **Advanced Control Interface (Next.js Tailwind CSS Firebase Flask-Python)** | 2023
+
 - Designed and developed an interface for "Advanced Wood Dyeing Control."
 
 💼 **Intern Management (.NET 6 HTML BootStrap SQL)** | 2022
+
 - Designed and developed an application for optimized intern tracking and coordination.
 
 ## Skills
 
-### Development Skills:
+### Development Skills
 
 - **IDEs:** Eclipse • Visual Studio Code • Visual Studio 2022 • Android Studio.
 - **Operating Systems:** Windows • Linux
 - **Frameworks:** ReactJS • Next.JS • Angular • TailwindCSS • BootStrap • Flask • .NET 6 • Flutter.
 - **API Testing:** Postman • TalendAPI
-- **Languages:** 
-  - Python ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg){:height="24px"}
-  - SQL ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg){:height="24px"}
-  - Java ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg){:height="24px"}
-  - JavaScript ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg){:height="24px"}
-  - TypeScript ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg){:height="24px"}
-  - PHP ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg){:height="24px"}
-  - C ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg){:height="24px"}
-  - C# ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg){:height="24px"}
-  - Dart ![Dart](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg){:height="24px"}
-  - GO ![GO](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg){:height="24px"}
-  - GraphQL ![GraphQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg){:height="24px"}
+- **Languages:** • Python • SQL • Java • JavaScript • TypeScript • PHP • Dart • GO • GraphQL.
 
-### General Skills:
+### General Skills
 
 - Teamwork • Problem Solving • Open-mindedness
 
