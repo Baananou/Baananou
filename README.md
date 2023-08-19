@@ -1,4 +1,4 @@
-# Mohamed Yessine Baananou
+# Mohamed Yessine Baananou 🇹🇳
 
 - **Age:** 22
 - **Address:** Sousse, Tunisia
@@ -10,7 +10,7 @@
 
 🎓 5th-year Computer Engineering student with expertise in modern technologies (Web and Mobile). Passionate about UI/UX and fitness.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baananou&show_icons=true&locale=en&layout=compact" alt="baananou" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baananou&show_icons=true&locale=en&layout=compact" alt="baananou" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baananou&show_icons=true&locale=en" alt="baananou" width="410" /></p>
 
