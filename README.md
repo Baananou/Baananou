@@ -10,6 +10,10 @@
 
 🎓 Enthusiastic 5th-year computer engineering student with a versatile expertise in modern technologies (Web and Mobile). Committed first-aider actively involved in various social projects.
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baananou&show_icons=true&locale=en&layout=compact" alt="baananou" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baananou&show_icons=true&locale=en" alt="baananou" width="410" /></p>
+
 ## Academic Background
 
 **École Polytechnique De Sousse** | 2019 – Present
