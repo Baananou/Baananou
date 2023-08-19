@@ -8,88 +8,52 @@
 - **GitHub:** [/baananou](https://github.com/baananou)
 - **GitLab:** [/baananou](https://gitlab.com/baananou)
 
-🎓 Enthusiastic 5th-year computer engineering student with a versatile expertise in modern technologies (Web and Mobile). Committed first-aider actively involved in various social projects.
+🎓 5th-year Computer Engineering student with expertise in modern technologies (Web and Mobile). Passionate about UI/UX and fitness.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baananou&show_icons=true&locale=en&layout=compact" alt="baananou" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baananou&show_icons=true&locale=en" alt="baananou" width="410" /></p>
 
-## Academic Background
+## Education
 
-**École Polytechnique De Sousse** | 2019 – Present
-
-- Engineering in Computer Science (EUR-ACE European accreditation)
-
-**Lycée Hammam Sousse 2** | 2018 – 2019
-
-- Baccalaureate in Technical Sciences (Electrical, Mechanical, Physics)
+**École Polytechnique De Sousse** | Engineering in Computer Science
+**Lycée Hammam Sousse 2** | Baccalaureate in Technical Sciences
 
 ## Professional Experience
 
-**Web Developer, VAERDIA, Sousse, Tunisia** | 2023 – Present
-
-- Collaborated on-site in designing custom CRMs using MUI, React.js, Next.js.
-- Integrated provided APIs using React Query.
-- Created a performant Flask/MySQL backend for file management (creation, search, export).
-
-**Web Developer, JOODLAB, Sousse, Tunisia** | 2022 – 2023
-
-- Collaborated remotely on various projects: Angular, Next.js, Tailwind CSS, GitLab.
-- Implemented multilingualism through I18n Framework.
-- Implemented SEO strategies to optimize content, enhancing online visibility and traffic.
+**Web Developer, VAERDIA, Sousse** | Custom CRMs with React.js, Next.js
+**Web Developer, JOODLAB, Sousse** | Angular, Next.js, SEO strategies
 
 ## Volunteer Experience
 
-🚑 **First Aider (FPS), Croissant-Rouge Comité Local Hammem Sousse** | 2022 – Present
-
-🎓 **Officer of Internal and External Affairs, GDSC Polytechnique De Sousse** | 2021 – 2022
-
-🎓 **President, Tunivisions Polytechnique De Sousse** | 2020 – 2021
+🚑 **First Aider, Croissant-Rouge Comité Local Hammem Sousse**
+🎓 **Officer, GDSC Polytechnique De Sousse** | 🎓 **President, Tunivisions Polytechnique De Sousse**
 
 ## Academic Projects
 
-🌦️ **Weather App (Flutter Dart)** | 2023
+🌦️ **Weather App (Flutter Dart)** | 📝 **TODO App (React Native Expo Firebase)**
+🌐 **Advanced Control Interface (Next.js Tailwind CSS Firebase Flask-Python)**
+💼 **Intern Management (.NET 6 HTML BootStrap SQL)**
 
-- Developed a mobile app to check the weather using Open Weather API.
+### Development
 
-✅ **TODO App (React Native Expo Firebase)** | 2023
+IDEs: Eclipse • VS Code • Visual Studio 2022 • Android Studio
+Frameworks: ReactJS • Next.JS • Angular • TailwindCSS • Flutter
+Languages: Python • SQL • Java • JS • TypeScript • PHP • C • C# • Dart • GO • GraphQL
 
-- Designed and developed a mobile app for task management.
+### General
 
-🌐 **Advanced Control Interface (Next.js Tailwind CSS Firebase Flask-Python)** | 2023
-
-- Designed and developed an interface for "Advanced Wood Dyeing Control."
-
-💼 **Intern Management (.NET 6 HTML BootStrap SQL)** | 2022
-
-- Designed and developed an application for optimized intern tracking and coordination.
-
-## Skills
-
-### Development Skills
-
-- **IDEs:** Eclipse • Visual Studio Code • Visual Studio 2022 • Android Studio.
-- **Operating Systems:** Windows • Linux
-- **Frameworks:** ReactJS • Next.JS • Angular • TailwindCSS • BootStrap • Flask • .NET 6 • Flutter.
-- **API Testing:** Postman • TalendAPI
-- **Languages:** • Python • SQL • Java • JavaScript • TypeScript • PHP • Dart • GO • GraphQL.
-
-### General Skills
-
-- Teamwork • Problem Solving • Open-mindedness
+Teamwork • Problem Solving • Open-mindedness
 
 ## Certifications
 
-- DataCamp Certificate: SQL Data Joining | Intermediate SQL | Basic Image Classification with TensorFlow
-- First Aid Training, Croissant-Rouge Hammem Sousse | 2022
+DataCamp: SQL Data Joining | Intermediate SQL | Basic Image Classification with TensorFlow
+First Aid Training, Croissant-Rouge Hammem Sousse | 2022
 
 ## Languages
 
-- 🇫🇷 French: DELF B2 (76/100)
-- 🇬🇧 English: TOEIC (815/1000)
-- 🇩🇪 German: Beginner
-- 🇦🇪 Arabic: Native
+🇫🇷 French (DELF B2) • 🇬🇧 English (TOEIC 815) • 🇩🇪 German (Beginner) • 🇦🇪 Arabic (Native)
 
 ## Interests
 
-- ⛺ Camping • 🎮 Video Games • 💪 Fitness • 🎨 UI/UX Design • 🌐 Technology
+⛺ Camping • 🎮 Video Games • 💪 Fitness • 🎨 UI/UX Design • 🌐 Technology
