@@ -36,7 +36,9 @@
 
 ## Academic Projects
 
-🌦️ **Weather App (Flutter Dart)** | 📝 **TODO App (React Native Expo Firebase)**
+🌦️ **Weather App (Flutter Dart)**
+
+📝 **TODO App (React Native Expo Firebase)**
 
 🌐 **Advanced Control Interface (Next.js Tailwind CSS Firebase Flask-Python)**
 
@@ -59,7 +61,7 @@ First Aid Training, Croissant-Rouge Hammem Sousse | 2022
 
 ## Languages
 
-🇫🇷 French (DELF B2) • 🇬🇧 English (TOEIC 815) • 🇩🇪 German (Beginner) • 🇹🇳 Arabic (Native)
+🇫🇷 French (DELF B2 76/100) • 🇬🇧 English (TOEIC 815/1000) • 🇩🇪 German (Beginner) • 🇹🇳 Arabic (Native)
 
 ## Interests
 
