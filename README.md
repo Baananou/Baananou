@@ -16,23 +16,30 @@
 
 ## Education
 
-**École Polytechnique De Sousse** | Engineering in Computer Science
-**Lycée Hammam Sousse 2** | Baccalaureate in Technical Sciences
+**École Polytechnique De Sousse**  Engineering in Computer Science
+
+**Lycée Hammam Sousse 2**  Baccalaureate in Technical Sciences
 
 ## Professional Experience
 
-**Web Developer, VAERDIA, Sousse** | Custom CRMs with React.js, Next.js
-**Web Developer, JOODLAB, Sousse** | Angular, Next.js, SEO strategies
+**Web Developer, VAERDIA, Sousse**  Custom CRMs with React.js, Next.js
+
+**Web Developer, JOODLAB, Sousse** Angular, Next.js, SEO strategies
 
 ## Volunteer Experience
 
 🚑 **First Aider, Croissant-Rouge Comité Local Hammem Sousse**
-🎓 **Officer, GDSC Polytechnique De Sousse** | 🎓 **President, Tunivisions Polytechnique De Sousse**
+
+🎓 **Officer, GDSC Polytechnique De Sousse**
+
+🎓 **President, Tunivisions Polytechnique De Sousse**
 
 ## Academic Projects
 
 🌦️ **Weather App (Flutter Dart)** | 📝 **TODO App (React Native Expo Firebase)**
+
 🌐 **Advanced Control Interface (Next.js Tailwind CSS Firebase Flask-Python)**
+
 💼 **Intern Management (.NET 6 HTML BootStrap SQL)**
 
 ### Development
