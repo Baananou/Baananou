@@ -1,8 +1,8 @@
 # Mohamed Yessine Baananou 🇹🇳
 
-- **Age:** 23
-- **Address:** Sousse, Tunisia
-- **Phone:** +216 94 055 007
+- **Age:** 24
+- **Address:** Tours, France
+- **Phone:** +33 6 83 98 55 89
 - **Email:** <bananoumohamed30@gmail.com>
 - **LinkedIn:** [/in/mohamed-yessine-baananou](https://www.linkedin.com/in/mohamed-yessine-baananou)
 - **GitHub:** [/baananou](https://github.com/baananou)
